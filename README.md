@@ -1,13 +1,13 @@
 
-###👋 Hi, Avinash Gadpayle
+👋 Hi, Avinash Gadpayle
 
-###👀 I’m interested in exploring and adding insights to it !!
+👀 I’m interested in exploring and adding insights to it !!
 
-###🌱 I’m currently looking for opportunity Data Analyst/Data Scientist 
+🌱 I’m currently looking for opportunity Data Analyst/Data Scientist 
 
-###💞️ I’m looking to collaborate on your ideas on Data.
+💞️ I’m looking to collaborate on your ideas on Data.
 
-###📫 You can reach me at agadpayle26@gmail.com/ https://www.linkedin.com/in/avinash-gadpayle-560463248/
+📫 You can reach me at agadpayle26@gmail.com/ https://www.linkedin.com/in/avinash-gadpayle-560463248/
 <!--
 **AvinashGadpayle/AvinashGadpayle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
