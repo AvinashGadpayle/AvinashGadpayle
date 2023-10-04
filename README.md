@@ -8,6 +8,7 @@
 💞️ I’m looking to collaborate on your ideas on Data.
 
 📫 You can reach me at agadpayle26@gmail.com/ 
+
                       & https://www.linkedin.com/in/avinash-gadpayle-560463248/
 
 ⚡ NovyPro Portfolio :-https://www.novypro.com/profile_about/avinashgadpayle
