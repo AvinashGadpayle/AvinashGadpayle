@@ -1,6 +1,6 @@
 ![logo](https://github.com/AvinashGadpayle/AvinashGadpayle/blob/main/1701319505595.jpg)
 <h1 align="center">Hi 👋, I'm Avinash Gadpayle</h1>
-<h3 align="center">🌟𝐓𝐨𝐩 𝐃𝐒 & 𝐀𝐈 𝐕𝐨𝐢𝐜𝐞 | 𝐈𝐈𝐓-𝐌 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝💞️ | 𝐀 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐃𝐚𝐭𝐚 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭</h3>
+<h3 align="center">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashgadpayle&label=Profile%20views&color=0e75b6&style=flat" alt="avinashgadpayle" /> </p>
